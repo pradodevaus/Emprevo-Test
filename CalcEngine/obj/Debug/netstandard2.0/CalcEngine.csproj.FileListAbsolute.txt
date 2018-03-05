@@ -1,0 +1,9 @@
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\bin\Debug\netstandard2.0\CalcEngine.deps.json
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\bin\Debug\netstandard2.0\CalcEngine.dll
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\bin\Debug\netstandard2.0\CalcEngine.pdb
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.csprojResolveAssemblyReference.cache
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.csproj.CoreCompileInputs.cache
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.AssemblyInfoInputs.cache
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.AssemblyInfo.cs
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.dll
+c:\users\prado\source\repos\Emprevo-Test\CalcEngine\obj\Debug\netstandard2.0\CalcEngine.pdb
